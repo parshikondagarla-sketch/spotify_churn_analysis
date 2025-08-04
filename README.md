@@ -29,3 +29,4 @@ jupyter notebook Notebooks/analysis.ipynb
 
 **Dashboard Preview:**  
 ![Power BI Screenshot](Visualizations/dashboard.png)
+
